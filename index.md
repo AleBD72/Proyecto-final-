@@ -9,7 +9,9 @@
 ## Descripción del proyecto:
 El siguiente programa  tiene el objetivo de desarrollar un Sistema para la Gestion de Calificaciones de un Instituto de Educación Superior, para lo cual se ha empleado los conocimientos adquiridos a lo largo del semestre en la asignatura de algoritmos y estructura de datos sobre:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="400" height="400">
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="400" height="450">
+</div>
 
 1. Funciones
 2. Recursividad
