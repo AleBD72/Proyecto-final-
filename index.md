@@ -30,6 +30,10 @@ A continuación se deja un enlace a un video de YouTube en donde se muestra la f
 </div>
 
 
-### Support or Contact
+### Link repositorio del proyecto
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A continuación puede acceder al repositorio principal del proyecto en GitHub [Repositorio](https://docs.github.com/categories/github-pages-basics/) 
+
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="120" height="120">
+</div>
