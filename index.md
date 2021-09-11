@@ -1,3 +1,6 @@
+
+# Sistema para la Gestión de calificaciones de un Instituto de Educación Superior
+
 ## Integrantes:
 1. Edison Rivera
 2. Jhon Torres
