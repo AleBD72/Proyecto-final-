@@ -9,6 +9,7 @@
 5. Felipe Pazmiño
 6. Camila Mier
 
+<hr>
 ## Descripción del proyecto:
 El siguiente programa  tiene el objetivo de desarrollar un Sistema para la Gestion de Calificaciones de un Instituto de Educación Superior, para lo cual se ha empleado los conocimientos adquiridos a lo largo del semestre en la asignatura de algoritmos y estructura de datos sobre:
 
@@ -24,6 +25,7 @@ El siguiente programa  tiene el objetivo de desarrollar un Sistema para la Gesti
 6. Librerias
 7. GitHub
 
+<hr>
 ## Video demostrativo de la funcionalidad del programa:
 A continuación se deja un enlace a un video de YouTube en donde se muestra la funcionalidad del sistema:
 [Enlace video Youtube](https://github.com/AleBD72/Proyecto-final-/edit/gh-pages/index.md) 
@@ -32,7 +34,7 @@ A continuación se deja un enlace a un video de YouTube en donde se muestra la f
 <img src="https://1000marcas.net/wp-content/uploads/2020/02/YouTube-logo.png" width="384" height="216">
 </div>
 
-
+<hr>
 ### Link repositorio del proyecto
 
 A continuación puede acceder al repositorio principal del proyecto en GitHub [Repositorio](https://docs.github.com/categories/github-pages-basics/) 
