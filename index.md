@@ -37,7 +37,7 @@ A continuación se deja un enlace a un video de YouTube en donde se muestra la f
 <hr>
 ### Link repositorio del proyecto
 
-A continuación puede acceder al repositorio principal del proyecto en GitHub [Repositorio](https://docs.github.com/categories/github-pages-basics/) 
+A continuación puede acceder al repositorio principal del proyecto en GitHub [Repositorio](https://github.com/AleBD72/Proyecto-final-.git) 
 
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="120" height="120">
