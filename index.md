@@ -28,7 +28,7 @@ El siguiente programa  tiene el objetivo de desarrollar un Sistema para la Gesti
 <hr>
 ## Video demostrativo de la funcionalidad del programa:
 A continuación se deja un enlace a un video de YouTube en donde se muestra la funcionalidad del sistema:
-[Enlace video Youtube](https://github.com/AleBD72/Proyecto-final-/edit/gh-pages/index.md) 
+[Enlace video Youtube](https://youtu.be/djC5EPnqyaw) 
 
 <div align="center">
 <img src="https://1000marcas.net/wp-content/uploads/2020/02/YouTube-logo.png" width="384" height="216">
