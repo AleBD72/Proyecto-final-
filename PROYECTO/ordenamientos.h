@@ -1,0 +1,11 @@
+int menu_ordenamiento (); 
+void ordenarBurbuja(tLista lista[],int& cont, string& tipo);
+void ordenarSeleccion(tLista lista[],int& cont, string& tipo);
+void ordenarInserccion(tLista lista[],int& cont, string& tipo);
+void fusionar (tLista lista[],int ini,int fi,int medio);
+void dividir (tLista lista[], int inicial, int cont, string& tipo);
+double mitad (tLista lista[], int pinicial, int pfinal);
+void ordenar_quicksort (tLista lista[], int pinicial, int pfinal, string& tipo);
+void heapsort (tLista lista[],int cont,string& tipo);
+void mostrarNotas (tLista lista[], int& cont, string& tipo);
+void guardarOrden(tDocentes &docentes, tLista lista[], int &cont, string &tipo,int &posicion);
